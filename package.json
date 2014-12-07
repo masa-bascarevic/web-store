@@ -1,0 +1,30 @@
+{
+  "name": "web-store",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Web Store Application powered by Node.js and AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/masa-bascarevic/web-store.git"
+  },
+  "keywords": [
+    "web",
+    "store"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/masa-bascarevic/web-store/issues"
+  },
+  "dependencies": {
+    "express": "~4.10.4",
+    "jade": "~1.8.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
